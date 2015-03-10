@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFRESTImage.Services.ImageService" CodeBehind="ImageService.svc.cs" %>
